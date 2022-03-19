@@ -1,26 +1,20 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Word-Guessing-Game-Doc
+description: This a a post on the requirements for our current project
+date: 2022-03-19
 tags:
-  - another tag
+  - web
+  - microservice
+  - webcomponent
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Background
 
-## Section Header
+For our final Project in IST402, our team decided to create a word-guessing-game. This would be a web-based word game allowing users to guess a random five-letter word. Each user would be given 5-6 attempts to guess the word. For each guess, a letter is marked as either green, yellow, or gray: Green indicates that the letter is correct, and yellow indicates that it is in the answer but not in the correct position. In contrast, gray indicates it is not in the correct position answer. [Project](https://github.com/elmsln/issues/issues/963)
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+## 11ty repo
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+You can find the repository powering this 11ty website [here](https://github.com/reyes-edwin/word-guess-game-doc).
 
-// Test with a line break above this line.
-console.log('Test');
-```
+## Notes Week 10
