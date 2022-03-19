@@ -12,16 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "git+https://github.com/reyes-edwin/word-guess-game-doc.git"
   },
   "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "name": "Group C"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reyes-edwin/word-guess-game-doc"
+    "url": "https://github.com/reyes-edwin/word-guess-game-doc/issues"
   },
   "homepage": "https://github.com/reyes-edwin/word-guess-game-doc#readme",
   "dependencies": {
